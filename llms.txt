@@ -1,0 +1,11 @@
+# Agent Early Access Radar
+
+Agent Early Access Radar is a SaaS workspace for AI agent early access tracker.
+
+Website: https://agentearlyaccess.space/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: AI agent early access tracker
+Type: SaaS
+Default plan: team
+
+Public boundary: docs-only repository; no production source code or secrets.
